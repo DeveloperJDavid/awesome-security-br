@@ -77,6 +77,7 @@ Obrigado a todos os [colaboradores](https://github.com/sbilly/awesome-security/g
 
 ### Varredura / Pentest
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Plataforma open source de pentest autônomo com IA, auto-hospedável via docker-compose e com servidor MCP, cobrindo web, API, Active Directory e Kubernetes.
 * [OpenVAS](http://www.openvas.org/) - OpenVAS é um framework de vários serviços e ferramentas oferecendo uma solução abrangente e poderosa de varredura e gerenciamento de vulnerabilidades.
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Uma ferramenta para desenvolvimento e execução de código exploit contra uma máquina alvo remota. Outros subprojetos importantes incluem o Opcode Database, arquivo de shellcode e pesquisas relacionadas.
 * [Kali](https://www.kali.org/) - Kali Linux é uma distribuição Linux derivada do Debian projetada para forense digital e testes de invasão (penetration testing). O Kali Linux vem pré-instalado com vários programas de testes de invasão, incluindo nmap (um scanner de portas), Wireshark (um analisador de pacotes), John the Ripper (um quebrador de senhas) e Aircrack-ng (um conjunto de softwares para testes de invasão em redes sem fio LAN).
